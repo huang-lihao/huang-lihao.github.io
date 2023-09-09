@@ -9,8 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-Chinese CV
+Chinese Version
 ======
 
-English CV
+English Version
 ======
