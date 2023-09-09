@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "zh-CN"
-title                    : "Personal Page"
+title                    : "Huang Lihao (黄立昊)"
 title_separator          : "-"
 name                     : &name "Huang Lihao"
 description              : &description "PhD candidate at Tsinghua University"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Huang Lihao"
+  name             : "Huang Lihao (黄立昊)"
   avatar           : "profile.png"
   bio              : "PhD candidate at Tsinghua University"
   location         : "Beijing, China"
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0003-3828-892X"
+  orcid            : #"https://orcid.org/0000-0003-3828-892X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
