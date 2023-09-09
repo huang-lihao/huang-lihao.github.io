@@ -83,38 +83,12 @@ author:
   name             : "HUANG Lihao (黄立昊)"
   avatar           : "profile.png"
   bio              : "PhD candidate at Tsinghua University"
-  location         : "Beijing, China"
-  employer         :
-  pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    :  # "https://scholar.google.com/citations?user=Apoy92QAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=Apoy92QAAAAJ"
   email            : "huang-lihao@outlook.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
   github           : "huang-lihao"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
   linkedin         : "huang-lihao"
   orcid            : "https://orcid.org/0000-0003-3828-892X"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : # "replacethistwitterhandle"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
+
 
 
 # Reading Files
