@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "zh-CN"
-title                    : "Huang Lihao (黄立昊)"
+title                    : "Huang Lihao"
 title_separator          : "-"
 name                     : &name "Huang Lihao"
 description              : &description "PhD candidate at Tsinghua University"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Huang Lihao"
+  name             : "Huang Lihao (黄立昊)"
   avatar           : "profile.png"
   bio              : "PhD candidate at Tsinghua University"
   location         : "Beijing, China"
