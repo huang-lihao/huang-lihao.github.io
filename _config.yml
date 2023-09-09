@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "zh-CN"
-title                    : "Huang Lihao"
+title                    : "Personal Page"
 title_separator          : "-"
 name                     : &name "Huang Lihao"
 description              : &description "PhD candidate at Tsinghua University"
