@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "zh-CN"
-title                    : "Huang Lihao"
+title                    : "HUANG Lihao"
 title_separator          : "-"
-name                     : &name "Huang Lihao"
+name                     : &name "HUANG Lihao"
 description              : &description "PhD candidate at Tsinghua University"
 url                      : https://huang-lihao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Huang Lihao (黄立昊)"
+  name             : "HUANG Lihao (黄立昊)"
   avatar           : "profile.png"
   bio              : "PhD candidate at Tsinghua University"
   location         : "Beijing, China"
