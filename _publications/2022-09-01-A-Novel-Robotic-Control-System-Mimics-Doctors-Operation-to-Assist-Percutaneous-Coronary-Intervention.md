@@ -1,6 +1,7 @@
 ---
 title: "A Novel Robotic Control System Mimics Doctor&apos;s Operation to Assist Percutaneous Coronary Intervention"
 collection: publications
+category: manuscripts
 permalink: /publication/2022-09-01-A-Novel-Robotic-Control-System-Mimics-Doctors-Operation-to-Assist-Percutaneous-Coronary-Intervention
 date: 2022-09-01
 venue: 'Cardiovascular Innovations and Applications'

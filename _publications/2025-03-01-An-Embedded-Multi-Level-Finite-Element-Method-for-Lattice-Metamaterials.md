@@ -1,6 +1,7 @@
 ---
 title: "An Embedded Multi-Level Finite Element Method for Lattice Metamaterials"
 collection: publications
+category: manuscripts
 permalink: /publication/2025-03-01-An-Embedded-Multi-Level-Finite-Element-Method-for-Lattice-Metamaterials
 date: 2025-03-01
 venue: 'Thin-Walled Structures'

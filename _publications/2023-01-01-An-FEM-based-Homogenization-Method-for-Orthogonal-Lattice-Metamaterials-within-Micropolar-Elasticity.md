@@ -1,6 +1,7 @@
 ---
 title: "An FEM-based Homogenization Method for Orthogonal Lattice Metamaterials within Micropolar Elasticity"
 collection: publications
+category: manuscripts
 permalink: /publication/2023-01-01-An-FEM-based-Homogenization-Method-for-Orthogonal-Lattice-Metamaterials-within-Micropolar-Elasticity
 date: 2023-01-01
 venue: 'International Journal of Mechanical Sciences'
